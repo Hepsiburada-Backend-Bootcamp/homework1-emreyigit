@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6r/BEH1gf8XuEpFTdOCuD88Xtj9VxTdYBD+YqJk06jw/nmS/SFexfPimSQRnDwryaodjKYm4KN1EWM41aGqtww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emre\\source\\repos\\HepsiBurada\\HW001_EmreYigit_ClassicCarAPI\\HW001_EmreYigit_ClassicCarAPI\\HW001_EmreYigit_ClassicCarAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Emre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
